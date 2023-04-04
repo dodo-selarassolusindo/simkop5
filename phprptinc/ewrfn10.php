@@ -6868,6 +6868,12 @@ function Database_Connecting(&$info) {
 		$info["pass"] = "PresarioCQ43"; // sesuaikan deengan password database di komputer server
 		$info["db"] = "u473805576_simk5"; // sesuaikan dengan nama database di komputer server
 		$info["port"] = "3306";
+	} elseif (ew_CurrentHost () == "simkop5.selarassolusindo.com") { // setting koneksi database untuk komputer server
+		$info["host"] = "localhost";  // sesuaikan dengan ip address atau hostname komputer server
+		$info["user"] = "u736643050_simkop5"; // sesuaikan dengan username database di komputer server
+		$info["pass"] = "PresarioCQ43"; // sesuaikan deengan password database di komputer server
+		$info["db"] = "u736643050_simkop5"; // sesuaikan dengan nama database di komputer server
+		$info["port"] = "3306";
 	}
 }
 
