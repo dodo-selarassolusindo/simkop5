@@ -1,0 +1,7 @@
+.form-group {
+	margin-bottom: 9px;
+}
+
+.table > tfoot > tr > td {
+	padding: 3px;
+}

@@ -1,0 +1,40 @@
+<strong>----- review -------------------------------------------------------------------------------</strong>
+6:05 PM 8/5/2019
+- koperasi, bunga
+1. tambah field sebagai flag :: Angsuran atau Bunga
+2. tambah config laporan
+
+- deposito,
+1. data kontrak selesai
+   keluar uang, nasabah menarik dananya
+
+
+12:57 PM 7/25/2019
+- deposito,
+transaksi deposito yang ada antara lain :
+1. terima uang, nasabah menaruh dananya
+2. keluar uang, nasabah menarik dananya
+3. keluar uang, bayar bunga deposito
+
+
+9:18 AM 7/23/2019
+- buat coa untuk deposito
+- deposito
+- biaya bunga deposito
+
+
+11:08 AM 7/19/2019
+deposito
+- dibuatkan inputan "status" apabila nasabah sudah tidak melanjutkan perjanjian deposito
+- tanyakan untuk COA yang digunakan apa saja
+- dibuatkan setup link rekening
+- auto-jurnal nya di proses apa aja
+
+
+<strong>----- to do --------------------------------------------------------------------------------</strong>
+<font color="red">1:00 PM 7/25/2019
+- reminder bayar bunga deposito menjelang jatuh tempo</font>
+
+
+<strong>----- done --------------------------------------------------------------------------------</strong>
+-
